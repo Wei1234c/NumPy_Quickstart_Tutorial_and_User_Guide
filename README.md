@@ -1,1 +1,3 @@
-### Practices based on [Mastering Python Scientific Computing](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-scientific-computing)
+### Practices based on:
+- [NumPy Quickstart tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+- [NumPy User Guide](https://docs.scipy.org/doc/numpy/user/)
